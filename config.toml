@@ -1,5 +1,5 @@
 Tittle= "El gran Novenus C"
-baseURL = "https://example.com"
+baseURL = "https://master.d3rqgn5gcuq1jk.amplifyapp.com"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
 
@@ -32,3 +32,8 @@ enableRobotsTXT = true
   background_color_class = "bg-black"
   featured_image = "/images/gohugo-default-sample-hero-image.jpg"
   recent_posts_number = 2
+git add .
+
+git commit -m "changed baseURL"
+
+git push -u origin master
